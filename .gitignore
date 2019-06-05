@@ -1,0 +1,6 @@
+src/Makefile
+src/build/*
+src/configure.h
+test/choose
+test/gcd
+
